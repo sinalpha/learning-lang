@@ -1,4 +1,4 @@
-# learning-japanese
+# learning-lang
 단어 정리 기준.   
 1. 뜻은 대충 알겠으나 정의는 모르는 단어   
 2. 해석할 순 있으나 읽을 줄은 모르는 단어   
